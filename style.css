@@ -1,0 +1,49 @@
+
+body{
+  margin:12px;
+}
+.header {
+    background-color:rgb(236, 211, 127);
+    padding: 5px;
+    text-align:center;
+  }
+
+.topnav{
+  overflow: hidden;
+background-color:"white";
+  padding:10px;
+  text-align: right;
+}
+
+.section1 {
+ 
+ float:left;
+ width:43%;
+ }
+ 
+ .section2 {
+ 
+  float:left;
+  width:55%;
+  }
+ 
+
+ img{
+  margin-top: 10px;
+   height:400px;
+   width:500px;
+   
+   
+ }
+
+ p{
+  font-size: 12px;
+   line-height: 50px;
+  
+ }
+
+ video{
+   margin-top: 40px;
+height: 200px;
+width: 500px;
+ }
